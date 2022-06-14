@@ -1,0 +1,24 @@
+header{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url(../img/paisagem-do-polo-norte-e-iglu-ilustração-da-140244794.jpg);
+}
+.menu-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-header{
+    width: 140px;
+    height: 140px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+li a{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2rem;
+    color: #000000;
+}

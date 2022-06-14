@@ -1,0 +1,16 @@
+
+h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+.icons-container{
+    display: flex;
+    justify-content: space-around;
+}
+i{
+    font-size: 70px;
+    color: #F2B705;
+}

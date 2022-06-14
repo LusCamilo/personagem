@@ -1,0 +1,31 @@
+main{
+    background-color: #2D96E7;
+
+}
+.container{
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    padding-top: 10px;
+
+}
+.descrição{
+    width: 55%;
+}
+.tux{
+    width: 30.5%;
+    height: 30.5%;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+p{
+    font-size: 1.5rem;
+    font-family: 'Permanent Marker', cursive;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+
